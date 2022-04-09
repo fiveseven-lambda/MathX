@@ -1,0 +1,11 @@
+.main {
+    display: flex;
+    justify-content: space-around;
+}
+.input {
+    height: 500px;
+    width: 45%;
+}
+.output {
+    width: 45%;
+}
